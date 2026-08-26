@@ -4,7 +4,7 @@
 
 An overview guide to **Adobe Lightroom Classic** and **Lightroom (CC)** — the industry-standard tools for photo organization, RAW editing, and non-destructive workflow.
 
-[![Buy](https://img.shields.io/badge/🛒/FREE SOFT-FF0000?style=for-the-badge)](https://share.google/dVrw752FFAKeucYou) [![Free Trial](https://img.shields.io/badge/⬇️__FREE-1E90FF?style=for-the-badge)](https://share.google/dVrw752FFAKeucYou)
+ [![Free Trial](https://img.shields.io/badge/⬇️__FREE-1E90FF?style=for-the-badge)](https://share.google/dVrw752FFAKeucYou)
 
 ---
 
