@@ -1,12 +1,4 @@
-**Repository name:** `Adobe-Lightroom-Guide`
 
-**Description:** An overview guide to Adobe Lightroom Classic and Lightroom (CC) — features, pricing plans, and official download links.
-
-**Topics:** `adobe` `adobe-lightroom` `lightroom` `lightroom-classic` `photo-editing` `photography` `raw-processing` `creative-cloud` `photo-editor` `guide`
-
----
-
-# 📷 Adobe Lightroom Classic / CC Guide
 
 ![Lightroom](https://img.shields.io/badge/Adobe-Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white) ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20iOS%20%7C%20Android-blue?style=for-the-badge) ![License](https://img.shields.io/badge/License-Subscription-orange?style=for-the-badge)
 
